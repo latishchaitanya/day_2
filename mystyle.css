@@ -1,0 +1,48 @@
+.container{
+    width: 235px;
+    height: 360px;
+    margin: 80px auto;
+    border-radius: 10px;
+    background: rgb(214, 214, 214);
+    box-shadow: 5px 5px 10px #b6a9a9 , -5px -5px 1opx #ffffff;
+}
+.calbox{
+    width: 200px;
+    margin: 20px auto;
+}
+.display{
+
+    border: none;
+    outline: none;
+    color: rgb(219, 8, 8);
+    text-align: right;
+    font-weight: 600;
+    padding: 20px;
+    margin:  30px 0 2px 5px ; 
+    
+    box-shadow: inset 2px 2px 5px #babecc , inset -5px -5px 10px #ffff;
+}
+.button{
+    margin: 15px 0 0 5px;
+    width: 42px;
+    height: 42px;
+    border: none;
+    outline: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px #b6acac;   
+    display: inline-block;
+}
+.button:active{
+    box-shadow: inset 1px 1px 2px #babeee , inset -1px -1px 2px #ffffff;
+}
+body{
+    padding-top: 150px;
+    margin: 0px;
+    background-image: url(https://i.pinimg.com/originals/c7/ee/35/c7ee35e666af6543d2cc005e997fd61c.gif);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+h3{
+    text-align-last: center;
+}
